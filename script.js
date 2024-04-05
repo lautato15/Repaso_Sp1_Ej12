@@ -13,7 +13,7 @@ function countVowels(str) {
   return counter;
 }
 function countVowels2(str) {
-  let vocals = ["a", "e", "i", "o", "u"];
+  let vocals = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"];
   let counter = 0;
   for (vocal of vocals) {
     for (var i = 0; i < str.length; i++) {
