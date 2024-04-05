@@ -22,3 +22,12 @@ function countVowels2(str) {
   }
   return counter;
 }
+
+// Ejercicio 12
+// Crear una función en JavaScript llamada countVowels (Contar Vocales) que reciba como parámetro un string y retorne el número correspondiente a la cantidad de vocales que aparecen en dicho string.
+// Nota: Para hacer este ejercicio no se pueden utilizar expresiones regulares. Esto se discutirá más adelante en clase.
+// Ejemplos:
+
+// Input ---> Output
+// countVowels("Hola") ---> 2
+// countVowels("Hola MUNDO") ---> 4
